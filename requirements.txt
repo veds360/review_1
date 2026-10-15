@@ -1,0 +1,4 @@
+numpy>=1.24
+faiss-cpu>=1.7.4
+sentence-transformers>=3.0
+groq>=0.9
